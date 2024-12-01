@@ -24,7 +24,7 @@ build/
 
 # IDEs
 .idea/
-# .vscode/
+.vscode/
 *.code-workspace
 
 # Debug and logs
